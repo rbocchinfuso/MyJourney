@@ -1,7 +1,7 @@
 # MyJourney
 
 ## Summary
-- Thie is a presentation-as-code built for and delivered to a 5th grade class at The Wyoming Seminary on February, 18 2021
+- Thie is a presentation-as-code built for and delivered to a 5th grade class at The [Wyoming Seminary](https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1606769826/wyoming/honxfnjs7afimgqobbrc/Sem.jpg)](https://www.wyomingseminary.org/) on February, 18 2021
 - This presentation was developed using Pythona and the Jupyter Notebook.
 
 _Note: If you have any questions or comments you can always DM me on the twitter @rbocchinfuso or just use "Discussions" in the Git repo._
