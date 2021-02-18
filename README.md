@@ -64,7 +64,7 @@ pip install -r requirements.txt
 5. Submit a pull request ツ
 
 ## History
--  version 0.1 (initial release) - 2020/02/18
+-  version 0.1 (initial release) - 2021/02/18
 
 ## Credits
 Rich Bocchinfuso <<rbocchinfuso@gmail.com>>
