@@ -1,7 +1,7 @@
 # MyJourney
 
 ## Summary
-- Thie is a presentation-as-code built for and delivered to a 5th grade class at The [Wyoming Seminary](https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1606769826/wyoming/honxfnjs7afimgqobbrc/Sem.jpg)](https://www.wyomingseminary.org/) on February, 18 2021
+- Thie is a presentation-as-code built for and delivered to a 5th grade class at the [Wyoming Seminary](https://www.wyomingseminary.org/) on February 18, 2021.
 - This presentation was developed using Pythona and the Jupyter Notebook.
 
 _Note: If you have any questions or comments you can always DM me on the twitter @rbocchinfuso or just use "Discussions" in the Git repo._
@@ -14,12 +14,12 @@ _Note: If you have any questions or comments you can always DM me on the twitter
 - Required Python Libraries
 
 # Usage
-- Download code from GitHub
+- Get code from GitHub
 ```
 git clone https://github.com/rbocchinfuso/MyJourney.git
 ```
 _Note:  If you don't have Git installed you can also just grab the zip: https://github.com/rbocchinfuso/MyJourney/archive/main.zip_
-- Install Required Python Libraries
+- Install required Python libraries
 ```
 pip install -r requirements.txt
 ```
