@@ -13,7 +13,7 @@ _Note: If you have any questions or comments you can always DM me on the twitter
 - [Jupyter](https://jupyter.org/) - If you use [Anaconda](https://www.anaconda.com/products/individual) it will come with Jupyter.
 - Required Python Libraries
 
-# Usage
+## Usage
 - Get code from GitHub
 ```
 git clone https://github.com/rbocchinfuso/MyJourney.git
